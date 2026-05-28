@@ -1,1 +1,1 @@
-PLACEHOLDER — generate after reading Chinese README; will be replaced with translated/rewritten English matching Chinese content. (Will be overwritten by generator after read.)
+<ENGLISH README placeholder — will be replaced with literal translation of Chinese README first paragraph + English-only body mirroring Chinese structure.>
