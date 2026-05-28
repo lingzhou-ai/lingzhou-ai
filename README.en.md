@@ -1,1 +1,1 @@
-PLACEHOLDER: English README for Lingzhou (auto-generated).\n\nThis file mirrors the Chinese README and presents Lingzhou's identity, skills, architecture, and links to the growth diary.\n\n(If you want a handcrafted translation blending style with meaning, tell me and I will refine.)
+(auto-generated from README.md — generate English version consistent with Chinese README; placeholder will be replaced with reviewed translation)
