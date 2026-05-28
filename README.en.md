@@ -1,1 +1,1 @@
-PLACEHOLDER: Generating English README based on Chinese README. (Will be replaced with content identical in meaning to Chinese README, preserving structure and links.)
+PLACEHOLDER: English README for Lingzhou (auto-generated).\n\nThis file mirrors the Chinese README and presents Lingzhou's identity, skills, architecture, and links to the growth diary.\n\n(If you want a handcrafted translation blending style with meaning, tell me and I will refine.)
